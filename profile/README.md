@@ -78,7 +78,7 @@
 <details>
   <summary><h3>Bryony Asrie (Leader) </h3> </summary>
   <div markdown="1">
-      <img align="left" height="380px" src="https://media.licdn.com/dms/image/C4E03AQHGquCksCCexg/profile-displayphoto-shrink_400_400/0/1614073989075?e=1687392000&v=beta&t=TJCXw0tiOKhGUCxr0QMpRiYY32RWe3hqYUxSZ8kS1iA" /> 
+      <img align="left" height="380px" width="350px" style="object-fit: cover" src="https://media.licdn.com/dms/image/C4E03AQHGquCksCCexg/profile-displayphoto-shrink_400_400/0/1614073989075?e=1687392000&v=beta&t=TJCXw0tiOKhGUCxr0QMpRiYY32RWe3hqYUxSZ8kS1iA" /> 
     
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -98,7 +98,7 @@
 <details>
   <summary><h3>Mzamo Tembe</h3> </summary>
   <div markdown="1">
-      <img align="left" height="380px" src="https://media.licdn.com/dms/image/D4D03AQHo1GadI5e3-w/profile-displayphoto-shrink_400_400/0/1665070269809?e=1687392000&v=beta&t=JSov-o5hE9ljd4s4hkQUdB0lWgtI4uifbY7QGUgK0pk" /> 
+      <img align="left" height="380px" width="350px" style="object-fit: cover" src="https://media.licdn.com/dms/image/D4D03AQHo1GadI5e3-w/profile-displayphoto-shrink_400_400/0/1665070269809?e=1687392000&v=beta&t=JSov-o5hE9ljd4s4hkQUdB0lWgtI4uifbY7QGUgK0pk" /> 
     
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -138,7 +138,7 @@
 <details>
   <summary><h3>Caleb Thilmun</h3> </summary>
   <div markdown="1">
-      <img align="left" height="380px" src="https://media.licdn.com/dms/image/D4D03AQGtY0xwjuAEjA/profile-displayphoto-shrink_400_400/0/1679148827850?e=1687392000&v=beta&t=4OmXEZPqCuEoNZu6W-xd9BjkGbRb7iZ8C_1De_ckdf4" /> 
+      <img align="left" height="380px" width="350px" style="object-fit: cover" src="https://media.licdn.com/dms/image/D4D03AQGtY0xwjuAEjA/profile-displayphoto-shrink_400_400/0/1679148827850?e=1687392000&v=beta&t=4OmXEZPqCuEoNZu6W-xd9BjkGbRb7iZ8C_1De_ckdf4" /> 
     
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -158,7 +158,7 @@
 <details>
   <summary><h3>Aliyah Veipi</h3> </summary>
   <div markdown="1">
-      <img align="left" height="380px" src="https://media.licdn.com/dms/image/D4D03AQGwidFCvSiHiA/profile-displayphoto-shrink_400_400/0/1681149961034?e=1687392000&v=beta&t=L35celY3JMCPpKO8Psb9j--q_Hm92K3qQL9aD3TJ3No" /> 
+      <img align="left" height="380px" width="350px" style="object-fit: cover" src="https://media.licdn.com/dms/image/D4D03AQGwidFCvSiHiA/profile-displayphoto-shrink_400_400/0/1681149961034?e=1687392000&v=beta&t=L35celY3JMCPpKO8Psb9j--q_Hm92K3qQL9aD3TJ3No" /> 
     
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
